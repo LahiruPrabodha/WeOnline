@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Release\clientExample.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Release\clientExample.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Release\clientExample.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.FormMain.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.FormRegister.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Release\clientExample.pdb

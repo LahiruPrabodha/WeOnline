@@ -1,0 +1,17 @@
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\bin\Debug\serverExample.exe.config
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\bin\Debug\serverExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\bin\Debug\serverExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\bin\Debug\mysql.data.dll
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\obj\Debug\serverExample.csprojResolveAssemblyReference.cache
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\obj\Debug\serverExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2_ServerOnly_MySQL\serverExample\obj\Debug\serverExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\bin\Debug\serverExample.exe.config
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\obj\Debug\serverExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\obj\Debug\serverExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\bin\Debug\serverExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\bin\Debug\serverExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\bin\Debug\mysql.data.dll
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork_Server\serverExample\obj\Debug\serverExample.csprojResolveAssemblyReference.cache
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_server\serverExample\bin\Debug\serverExample.exe.config
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_server\serverExample\obj\Debug\serverExample.exe
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_server\serverExample\obj\Debug\serverExample.pdb

@@ -1,0 +1,32 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Debug\clientExample.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Debug\clientExample.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.FormMain.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\obj\Debug\clientExample.FormRegister.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\clientExample\clientExample\bin\Debug\clientExample.exe.config
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\bin\Debug\clientExample.exe.config
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\bin\Debug\clientExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\bin\Debug\clientExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.csprojResolveAssemblyReference.cache
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.FormMain.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.FormRegister.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\xsDevelopment_ChatNetworkR2\Source\Client\clientExample\obj\Debug\clientExample.csproj.GenerateResource.Cache
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\bin\Debug\clientExample.exe.config
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\bin\Debug\clientExample.exe
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\bin\Debug\clientExample.pdb
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.csprojResolveAssemblyReference.cache
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.FormMain.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.FormRegister.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\ip project\my sample\new chat1\wcf chat1\ChatNetwork\Source\Client\clientExample\obj\Debug\clientExample.csproj.GenerateResource.Cache
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_Client\Source\Client\clientExample\bin\Debug\clientExample.exe.config
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_Client\Source\Client\clientExample\obj\Debug\clientExample.exe
+C:\Users\Lahiru\Desktop\IP project WeOnline\WeOnline_Client\Source\Client\clientExample\obj\Debug\clientExample.pdb
